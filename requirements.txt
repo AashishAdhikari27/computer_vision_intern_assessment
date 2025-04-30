@@ -1,3 +1,24 @@
+
+
+opencv-python
+numpy
+pandas
+Pillow
+python
+notebook
+jupyterlab
+
+
+
+
+
+
+
+
+
+
+
+
 attrs==23.2.0
 Babel==2.10.3
 bcc==0.29.1
@@ -72,12 +93,3 @@ wheel==0.42.0
 xdg==5
 xkit==0.0.0
 
-
-
-opencv-python
-numpy
-pandas
-Pillow
-python
-notebook
-jupyterlab
