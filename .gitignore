@@ -22,6 +22,4 @@ build/
 # MacOS hidden files
 .DS_Store
 
-# Output folders (optional)
-output_images/
-output/
+
