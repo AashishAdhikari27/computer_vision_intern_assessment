@@ -1,0 +1,27 @@
+# Ignore Python virtual environment folders
+cv_env/
+venv/
+env/
+ENV/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (if using VS Code)
+.vscode/
+
+# MacOS hidden files
+.DS_Store
+
+# Output folders (optional)
+output_images/
+output/
