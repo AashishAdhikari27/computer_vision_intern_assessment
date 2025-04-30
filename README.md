@@ -78,6 +78,6 @@ python "02)task_two/color_detector.py"
 
 # Example Outputs (Screenshots)
 
-![output_image1](02)task_two/output_images/Screenshot from 2025-05-01 02-20-46.png)
-![output_image2](02)task_two/output_images/Screenshot from 2025-05-01 02-21-22.png)
-![output_image3](02)task_two/output_images/Screenshot from 2025-05-01 02-21-45.png)
+![output_image1](02)task_two/output_images/output1.png)
+![output_image2](02)task_two/output_images/output2.png)
+![output_image3](02)task_two/output_images/output3.png)
