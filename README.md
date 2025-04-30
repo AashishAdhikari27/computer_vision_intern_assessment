@@ -68,12 +68,9 @@ pip install -r requirements.txt
 python "02)task_two/color_detector.py"
 ```
 
-4.Interact with the Webcam Window
-
-    Left-click anywhere on the webcam feed.
-
+4.Interact with the Webcam Window   
+    Left-click anywhere on the webcam feed.  
     A colored rectangle with the BGR values and the name of the closest matching color will appear.
-
     Press q to quit the webcam popup frame.
 
 # Example Outputs (Screenshots)
