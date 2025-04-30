@@ -76,5 +76,7 @@ python "02)task_two/color_detector.py"
 # Example Outputs (Screenshots)
 
 ![output_image1]( screenshots/output1.png)
+
 ![output_image2](screenshots/output2.png)
+
 ![output_image3](screenshots/output3.png)
